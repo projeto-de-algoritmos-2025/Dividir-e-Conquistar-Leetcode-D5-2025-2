@@ -22,8 +22,8 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 | Questão | Nível  |
 |---------|--------|
-| []() | Médio |
-| []() | Difícil |
+| [148 - Sort list](https://leetcode.com/problems/sort-list/description/) | Médio |
+| [23 - Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
 | []() | Médio |
 | []() | Difícil |
 
@@ -36,7 +36,7 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ### Exercício 02 -
 
-![Exercício 2 - ]()
+![Exercício 2 - Merge K sorted lists]()
 
 ### Exercício 03 -
 
