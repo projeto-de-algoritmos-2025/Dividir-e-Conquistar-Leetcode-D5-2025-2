@@ -38,11 +38,11 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ![Exercício 2 - Merge K sorted lists](./exerc/23/mergelits.png)
 
-### Exercício 03 -
+### Exercício 03 - Sort an Array
 
 ![Exercício 3 - Sort an Array](./exerc/912/print.jpeg)
 
-### Exercício 04 -
+### Exercício 04 - Distribute Repeating Integers
 
 ![Exercício 4 - Distribute Repeating Integers](./exerc/1655/print.jpeg)
 
