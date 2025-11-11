@@ -47,3 +47,5 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 ![Exercício 4 - Distribute Repeating Integers](./exerc/1655/distrepint.png)
 
 ## Vídeo
+
+[Video](https://drive.google.com/file/d/1iOJfBNI2wKxs8SrcqKqEGoxE5VFiP6vS/view?usp=sharing)
