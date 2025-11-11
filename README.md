@@ -44,7 +44,7 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ### Exercício 04 -
 
-![Exercício 4 - Distribute Repeating Integers](./exerc/1655/distrepint.png)
+![Exercício 4 - Distribute Repeating Integers](./exerc/1655/print.jpeg)
 
 ## Vídeo
 
