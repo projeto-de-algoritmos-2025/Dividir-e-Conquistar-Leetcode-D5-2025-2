@@ -24,8 +24,8 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 |---------|--------|
 | [148 - Sort list](https://leetcode.com/problems/sort-list/description/) | Médio |
 | [23 - Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
-| []() | Médio |
-| []() | Difícil |
+| [912. Sort an Array](https://leetcode.com/problems/sort-an-array) | Médio |
+| [1655. Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers) | Difícil |
 
 
 ## Screenshots
@@ -40,10 +40,10 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ### Exercício 03 -
 
-![Exercício 3 - ]()
+![Exercício 3 - Sort an Array](./exerc/912/print.jpeg)
 
 ### Exercício 04 -
 
-![Exercício 4 - ]()
+![Exercício 4 - Distribute Repeating Integers](./exerc/1655/distrepint.png)
 
 ## Vídeo
