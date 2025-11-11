@@ -30,13 +30,13 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ## Screenshots
 
-### Exercício 01 - Nome
+### Exercício 01 - Sort List
 
-![Exercício 1 - ]()
+![Exercício 1 - Sort List](./exerc/148/sortlist.png)
 
-### Exercício 02 -
+### Exercício 02 - Merge K sorted lists
 
-![Exercício 2 - Merge K sorted lists]()
+![Exercício 2 - Merge K sorted lists](./exerc/23/mergelits.png)
 
 ### Exercício 03 -
 
